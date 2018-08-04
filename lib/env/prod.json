@@ -1,0 +1,5 @@
+{
+  "env": "PROD",
+  "production": true,
+  "apiKey": "<PROD_KEY>"
+}

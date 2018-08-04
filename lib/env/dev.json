@@ -1,0 +1,5 @@
+{
+  "env": "DEV",
+  "production": false,
+  "apiKey": "<DEV_KEY>"
+}
